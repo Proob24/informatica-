@@ -1,0 +1,31 @@
+<html>
+              <head>
+                               <meta charset="UTF-8">
+                               <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                               <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                               <title> primo sito </title>
+              </head>
+              <body>
+                <h1> Qui troverai degli esercizi fatti da me</h1>
+                <p>Ecco qua i siti: </p>
+                <a href="malware.html">Il mio malware (1.0)</a>
+                <p></p>
+                <a href="Tabellina.html">tabellina</a>
+                <p></p>
+                <a href="4Bottoni.html">4 Bottoni</a>
+                <p></p>
+                <a href="2dadi.html">2 dadi</a>
+                <p></p>
+                <a href="generadad.hitml">Genera Dadi</a>
+                <p></p>
+                <a href="testtempo.html">Test del tempo</a>
+                <p></p>
+                <a href="TestCps.html">Test dei cps</a>
+                <p></p>
+                <a href="reazione.html">Quanto sei veloce?</a>
+                <p></p>
+                <a href="grassi-calorie.html">Converitore di calorie</a>
+                <p></p>
+                <a href="Multipli10.html"> multipli di 10</a>
+             </body>
+</html>
