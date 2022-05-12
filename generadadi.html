@@ -1,0 +1,33 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Come generare un dado</title>
+</head>
+<body>
+<p>Ecco come fare un dado (premi per iniziare):</p>
+<button onclick="return dado()">lancia dado</button>
+<p>prima si genera un numero a caso tra 0 (incluso) e 1 (escluso):</p>
+<p id="nuum"></p>
+<p>Poi si moltiplica per 6:</p>
+<p id="nuum6"></p>
+<p>si Prende la parte intera</p>
+<p id="nuumint"></p>
+<P>si aggiunge uno:</P>
+<p id="nuum1"></p>
+<script>
+    function dado(){
+        let num= Math.random();
+        document.getElementById("nuum").innerHTML = num;
+        num = num*6;
+        document.getElementById("nuum6").innerHTML = num;
+        num = Math.floor(num);
+        document.getElementById("nuumint").innerHTML = num;
+        num = num+1;
+        document.getElementById("nuum1").innerHTML = num;
+    }
+</script>
+</body>
+</html>
