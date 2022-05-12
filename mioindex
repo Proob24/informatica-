@@ -3,10 +3,9 @@
                                <meta charset="UTF-8">
                                <meta http-equiv="X-UA-Compatible" content="IE=edge">
                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                               <title> primo sito </title>
+                               <title> Il mio primo sito </title>
               </head>
-              <body>
-                <h1> Qui troverai degli esercizi fatti da me</h1>
+              <body><h1> Qui troverai degli esercizi fatti da me</h1>
                 <p>Ecco qua i siti: </p>
                 <a href="malware.html">Il mio malware (1.0)</a>
                 <p></p>
@@ -16,7 +15,7 @@
                 <p></p>
                 <a href="2dadi.html">2 dadi</a>
                 <p></p>
-                <a href="generadad.hitml">Genera Dadi</a>
+                <a href="generadadi.hitml">Genera Dadi</a>
                 <p></p>
                 <a href="testtempo.html">Test del tempo</a>
                 <p></p>
@@ -27,5 +26,6 @@
                 <a href="grassi-calorie.html">Converitore di calorie</a>
                 <p></p>
                 <a href="Multipli10.html"> multipli di 10</a>
-             </body>
+                <a href="leggediohm.html"> la legge di ohm+ esercizi</a> 
+                 </body>
 </html>
